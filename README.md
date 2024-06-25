@@ -87,6 +87,9 @@
 <p>Finally, we obtain a response with sensitive information about this API data. We use these credentials to start an SSH session:</p>
 <br>
 <center>
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-lbTLf929CaUAHaWWoLQbQ.png">
+</center>
+<center>
     <img src="https://github.com/alvaroogs013/WriteUp-HTB-Editorial/assets/131161276/cde3b765-7f5a-4afd-a658-cf89af3f7d1d" alt="SSH Login">
 </center>
 <br>
